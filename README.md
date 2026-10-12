@@ -12,6 +12,9 @@ claim is backed by an artifact digest.
 1. [001: Pylance VS Code extension](posts/001-pylance-extension.md) — what a
    static JavaScript application graph of a real, shipped extension looks like,
    from IPC observations down to per-edge source ranges.
+2. [002: Claude Code VS Code extension](posts/002-claude-code-extension.md) —
+   a thin shell around a bundled CLI: import boundaries, the webview's
+   localStorage persistence surface, and a zero-IPC security summary.
 
 ## Method
 
