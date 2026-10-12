@@ -15,6 +15,9 @@ claim is backed by an artifact digest.
 2. [002: Claude Code VS Code extension](posts/002-claude-code-extension.md) —
    a thin shell around a bundled CLI: import boundaries, the webview's
    localStorage persistence surface, and a zero-IPC security summary.
+3. [003: notepad.exe with Ghidra](posts/003-notepad-native-ghidra.md) — the
+   first native run: PE segment map, 853 procedures, and what the analysis
+   profile admits about its own Windows P0 limits.
 
 ## Method
 
