@@ -1,0 +1,3 @@
+# Local evidence bundles, never commit these
+*.json
+!package.json
