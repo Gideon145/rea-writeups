@@ -18,6 +18,9 @@ claim is backed by an artifact digest.
 3. [003: notepad.exe with Ghidra](posts/003-notepad-native-ghidra.md) — the
    first native run: PE segment map, 853 procedures, and what the analysis
    profile admits about its own Windows P0 limits.
+4. [004: findstr.exe with Ghidra](posts/004-findstr-native-ghidra.md) — a
+   24 KB stripped CLI binary: how the evidence scales with the target, and a
+   suspicious 530 KB `.data` section left as an open question.
 
 ## Method
 
